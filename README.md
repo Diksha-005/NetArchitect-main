@@ -1,7 +1,7 @@
 # NetArchitect: Recommendation & Config Engine
 
 **Educational Network Architecture Recommendation & Configuration Prototype**  
-**MADE BY**: SHREYA CHAUDHARY 09414802724 • KHUSHI JAIN 06914813124  
+**MADE BY**: diksha 01414812724 • nishtha mittal  00514811124
 **Course Code**: CIC-307 • Computer Networks Mini-Project  
 **Evaluation Weight**: 100 Points  
 **Technologies**: Python 3.10+, Cisco IOS Software, pytest  
@@ -142,22 +142,18 @@ python main.py
 Menu options:
 ```
 ========================================================================================
-   _   _      _      _             _     _ _            _   
-  | \ | | ___| |_   / \   _ __ ___| |__ (_) |_ ___  ___| |_ 
-  |  \| |/ _ \ __| / _ \ | '__/ __| '_ \| | __/ _ \/ __| __|
-  | |\  |  __/ |_ / ___ \| | | (__| | | | | ||  __/ (__| |_ 
-  |_| \_|\___|\__/_/   \_\_|  \___|_| |_|_|\__\___|\___|\__|
-                                                            
-       Network Architecture Recommendation & Cisco Config Engine
-       Course Code: CIC-307 • Computer Networks Mini-Project
-========================================================================================
+## Network Architecture Recommendation & Cisco Config Engine
 
-  SELECT NETWORK ARCHITECTURE SCENARIO:
-  1. Campus LAN          (3 Buildings, <400m, Cat6a/OM4, RSTP, Single-Area OSPF)
-  2. Metro MAN           (HQ + 2 Remote, 15-35km, OS2 SMF, EVPL, Sub-5ms QoS)
-  3. Global WAN          (4 Cities + Cloud VPC, OS2, IPsec, eBGP/OSPF Summarization)
-  4. Custom Network      (Load custom JSON or interactive parameter input)
-  5. Exit
+**Course Code:** CIC-307 • Computer Networks Mini-Project
+
+### Select Network Architecture Scenario
+
+1. **Campus LAN** — (3 Buildings, <400m, Cat6a/OM4, RSTP, Single-Area OSPF)
+2. **Metro MAN** — (HQ + 2 Remote, 15–35km, OS2 SMF, EVPL, Sub-5ms QoS)
+3. **Global WAN** — (6 Cities + Cloud VPC, OS2, IPSec, eBGP/OSPF Summarization)
+4. **Custom Network** — (Load custom JSON or interactive parameter input)
+5. **Exit**
+
 ========================================================================================
 ```
 
