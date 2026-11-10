@@ -1,4 +1,4 @@
-# NetArchitect: Recommendation & Config Engine
+# NetArchitect
 
 **Educational Network Architecture Recommendation & Configuration Prototype**  
 **MADE BY**: diksha 01414812724 • nishtha mittal  00514811124
